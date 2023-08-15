@@ -257,7 +257,7 @@
     .pop-up{
         z-index: 200;
         position: fixed;
-        right: 20px;
+        right: 10px;
         bottom: 10px;
     }
     .users-chat {
