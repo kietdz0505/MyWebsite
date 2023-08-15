@@ -1,0 +1,135 @@
+.flex {
+    display: flex;
+}
+
+.display-none {
+    display: none;
+}
+
+li:hover>ul.submenu-hoso li {
+    display: block !important;
+}
+
+.submenu-hoso {
+    padding: 5px;
+    margin: 0;
+    padding: 0;
+    background-color: darkblue;
+    position: absolute;
+}
+
+.submenu-hoso li {
+    color: aliceblue;
+    font-size: 0.8em;
+    display: none;
+}
+
+.submenu-hoso li>a {
+    color: aliceblue;
+    text-decoration: none;
+    margin: 0..5rem;
+    padding: 0.2rem;
+}
+
+.submenu-hoso li>a:hover {
+    text-decoration: none;
+    background-color: gray;
+}
+
+.submenu-hoso li {
+    color: aliceblue;
+    text-decoration: none;
+    margin: .5rem;
+}
+
+.DanhSachSinhVien {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.SinhVien {
+    width: 24%;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+div.SinhVien img {
+    width: 100%;
+}
+
+.aside-right {
+    width: 10%;
+}
+
+.aside-left {
+    width: 10%;
+}
+
+#timSinhVien {
+    margin: .3rem;
+    font-size: 1.2rem;
+    width: 50%;
+    text-align: center;
+    height: 1.5rem;
+}
+
+@media (max-width: 450px) {
+    .SinhVien {
+        display: flex;
+        width: 100%;
+    }
+
+    .display-none {
+        display: none;
+    }
+
+    #timSinhVien {
+        margin: 0.3rem;
+        font-size: 1.2rem;
+        width: 80%;
+        text-align: center;
+        height: 1.5rem;
+    }
+
+    .menu {
+        background-color: lightseagreen;
+    }
+
+    .info {
+        width: 45%;
+    }
+
+    .image {
+        width: 45%;
+    }
+
+    .image img {
+        width: 100%;
+    }
+
+    .DanhSachSinhVien {
+        width: 100%;
+    }
+
+    .aside-right {
+        width: 0%;
+    }
+
+    .aside-left {
+        width: 0%;
+    }
+
+    .row {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding-bottom: 1rem;
+    }
+
+    .maps {
+        width: 100%;
+    }
+}

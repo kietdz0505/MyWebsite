@@ -1,0 +1,163 @@
+[
+    {
+        "status": "",
+        "img": "https://scontent.fsgn13-4.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?_nc_cat=1&cb=99be929b-3346023f&ccb=1-7&_nc_sid=7206a8&_nc_ohc=0KR7rzz-R4cAX8wh99s&_nc_ht=scontent.fsgn13-4.fna&oh=00_AfBdUJH7NCj8ASA0xIlgIfomxMCgiubSuvpEN6G8lHOnoA&oe=64F7EA38",
+        "element": "div",
+        "class" : "notactive",
+        "active": "5 phút",
+        "name": "Trương Chí Dũng"
+    },
+    {
+        "status": "seenstory",
+        "img": "https://i.pinimg.com/564x/98/05/9d/98059dee6cccef98a61be71abcd7c4ac.jpg",
+        "element": "i",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Linh Nguyen"
+    },
+    {
+        "status": "seenstory",
+        "img": "https://1.bp.blogspot.com/--cwALLkjCmE/YGLZYq7VqvI/AAAAAAAArCw/4uWXNg5iBYQsblpvSO2UDHEG5NF4RYWtgCNcBGAsYHQ/s0/2d27fefccf755efa36a6ba7c9c8ff5db.jpeg",
+        "element": "div",
+        "class" : "live",
+        "active": "Trực tiếp",
+        "name": "Khánh Duy"
+    },
+    {
+        "status": "story",
+        "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwoHCAoJBwkGCAoHCAoICAcIDRIICQcKFREWFhURExMYHCggGCYxGxMTITEhMSkrLi4uFx8zODMsNygtLisBCgoKCw0NDw0NFS0dHxkrKysrKysrLSsrKysrLTcrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAN8A2QMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAAAQIFBgQDB//EADYQAQACAgEBBQUFBwUBAAAAAAABAgMRBAUSISIxUjJBUXKSExVCYmMzNFNhcYKiIyRzgZEU/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oADAMBAAIRAxEAPwD9EAaQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADv8AKO+WhxelXyx2s9vs49NfaBn7g3DocXTsOOPY7XzPrHHw/wAKn0lHM7PN0l+FhtGpxU/6ePkdIraJnDOvyyUY4vkxWwTNMlOzKgAAAAAAAAAAAAAAAAAAAPRwMP8A9GaKx3xXxWBodK4PZiMuaN3nyaceZEajUR3R3JZVIACJSA83K4teTSa2jv8Aw2c9mx2w3mlvc6lldZwbrGWI12PaUZAfzFQAAAAAAAAAAAAAAAAavQsf7TJP4vZZTc6LH+2j49pBogIoAAACJfHmY4yYL1n0vuraNxMT74BykfD0i2SIjJeI/DZVpAAAAAAAAAAAAAAAABudE/d/7mG1eh5Y1fHv2fEitgRuEoAAAACLd0TMpefm5Ix4L2mdeHsg5y87yZJ9VrKnf5yNIAAAAAAAAAAAAAAAAT5Ptw808fNS8eXs2fEB1dbRaItHvWY3SebFI+xzW+SzY3DKpERO0gAjcAT5MfrXI76YqTv1PdzeVXj1nxeO3s1c9e9sl5vbzsuYI7/eAqAAAAAAAAAAAAAAAAAAHm0OF1S2KOxyPFWPZyM81sHTYeRjyxE0vSX23Hm5OImPJb7S8RqMmX6kiuotetY3a2ng5PVaUia4fFdi2ta0atO/62RqI8u4gtlyXzW7eSe9UGsQAQAAAAAAAAAAAAAADcL4sVs89jFG5a3F6VSmr5/9S/p/CDKxYb5v2dLz/g9ePpOW/fbsVbdaxXurGo/kmPNKrIjo1vfl1/RP3P8Ar3+lsBRj/c/69/pPuf8AXv8AS2Aox/uf9e/0n3P+vf6WwFGPPR592b/F87dIyxG65KS3ET3lHNZuFmxe1TcflfCe7unudXO3m5PBxciPFXU+qCjnR6eZwr8ad9ndPU8yoAAAAAAAAAAPtx+PbkXilPrfGImZ7NfOzouBxY42OI7Pjn2rGi/F4teNTsUj5p9T7wlG4ZVIjcG4BIhIAhIAIBII3AJRPkbg3AK3rFomt43EsPqHAnBPbxd+P0+lvT/6rakWia2jcSDlfdsenncaeNkmPwX9l5mkAAAAAAAJ8gaHSMEZcn2lo7qVbW+95emYoxcakfHxPQmqts3CogtuDcKgLbNqgLbNqgLbNqgLbNwqAtuDcKgLbN/FUB5+p4Iz4ZmPOrA13fK6ie+NfHwua5FPssuSn5lxHzAUAAAADW5iPzCY84+aoOjw+HHSvpqvtSs+GPlSC2zapALbNo3BuATs2jcEgnZtUgFtm0SgFtm1QFtm1QFtm1UAvtidVr2eRM/GvabLI6v+8R/xA8IAAAAAB74+aoA6OvsRP5Tb4cHLOTDG/OKvuBs2AGzYAbNgBs2AGzYAbNgBs2AGzYAbZPVpic8a/hNWZ1G/SwuXknLmvf8AtB8gAAAf/9k=",
+        "element": "div",
+        "class" : "notactive",
+        "active": "12 phút",
+        "name": "Vĩnh Hảo"
+    },
+    {
+        "status": "story",
+        "img": "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/320439888_1275093199726402_2611313598046448744_n.jpg?_nc_cat=107&cb=99be929b-3346023f&ccb=1-7&_nc_sid=be3454&_nc_ohc=K9dNHcix0r4AX8TA1mY&_nc_ht=scontent.fsgn2-3.fna&oh=00_AfDIbZSPzM2VEn8bJhkBQ9QcED6k4fWULzDz7u4PGi8jjw&oe=64DC238E",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Tú Trân"
+    },
+    {
+        "status": "",
+        "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwoHCAoJBwkGCAoHCAoICAcIDRIICQcKFREWFhURExMYHCggGCYxGxMTITEhMSkrLi4uFx8zODMsNygtLisBCgoKCw0NDw0NFS0dHxkrKysrKysrLSsrKysrLTcrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAN8A2QMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAAAQIFBgQDB//EADYQAQACAgEBBQUFBwUBAAAAAAABAgMRBAUSISIxUjJBUXKSExVCYmMzNFNhcYKiIyRzgZEU/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oADAMBAAIRAxEAPwD9EAaQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADv8AKO+WhxelXyx2s9vs49NfaBn7g3DocXTsOOPY7XzPrHHw/wAKn0lHM7PN0l+FhtGpxU/6ePkdIraJnDOvyyUY4vkxWwTNMlOzKgAAAAAAAAAAAAAAAAAAAPRwMP8A9GaKx3xXxWBodK4PZiMuaN3nyaceZEajUR3R3JZVIACJSA83K4teTSa2jv8Aw2c9mx2w3mlvc6lldZwbrGWI12PaUZAfzFQAAAAAAAAAAAAAAAAavQsf7TJP4vZZTc6LH+2j49pBogIoAAACJfHmY4yYL1n0vuraNxMT74BykfD0i2SIjJeI/DZVpAAAAAAAAAAAAAAAABudE/d/7mG1eh5Y1fHv2fEitgRuEoAAAACLd0TMpefm5Ix4L2mdeHsg5y87yZJ9VrKnf5yNIAAAAAAAAAAAAAAAAT5Ptw808fNS8eXs2fEB1dbRaItHvWY3SebFI+xzW+SzY3DKpERO0gAjcAT5MfrXI76YqTv1PdzeVXj1nxeO3s1c9e9sl5vbzsuYI7/eAqAAAAAAAAAAAAAAAAAAHm0OF1S2KOxyPFWPZyM81sHTYeRjyxE0vSX23Hm5OImPJb7S8RqMmX6kiuotetY3a2ng5PVaUia4fFdi2ta0atO/62RqI8u4gtlyXzW7eSe9UGsQAQAAAAAAAAAAAAAADcL4sVs89jFG5a3F6VSmr5/9S/p/CDKxYb5v2dLz/g9ePpOW/fbsVbdaxXurGo/kmPNKrIjo1vfl1/RP3P8Ar3+lsBRj/c/69/pPuf8AXv8AS2Aox/uf9e/0n3P+vf6WwFGPPR592b/F87dIyxG65KS3ET3lHNZuFmxe1TcflfCe7unudXO3m5PBxciPFXU+qCjnR6eZwr8ad9ndPU8yoAAAAAAAAAAPtx+PbkXilPrfGImZ7NfOzouBxY42OI7Pjn2rGi/F4teNTsUj5p9T7wlG4ZVIjcG4BIhIAhIAIBII3AJRPkbg3AK3rFomt43EsPqHAnBPbxd+P0+lvT/6rakWia2jcSDlfdsenncaeNkmPwX9l5mkAAAAAAAJ8gaHSMEZcn2lo7qVbW+95emYoxcakfHxPQmqts3CogtuDcKgLbNqgLbNqgLbNqgLbNwqAtuDcKgLbN/FUB5+p4Iz4ZmPOrA13fK6ie+NfHwua5FPssuSn5lxHzAUAAAADW5iPzCY84+aoOjw+HHSvpqvtSs+GPlSC2zapALbNo3BuATs2jcEgnZtUgFtm0SgFtm1QFtm1QFtm1UAvtidVr2eRM/GvabLI6v+8R/xA8IAAAAAB74+aoA6OvsRP5Tb4cHLOTDG/OKvuBs2AGzYAbNgBs2AGzYAbNgBs2AGzYAbZPVpic8a/hNWZ1G/SwuXknLmvf8AtB8gAAAf/9k=",
+        "element": "div",
+        "class" : "notactive",
+        "active": "2 phút",
+        "name": "Sown Soo Ny"
+    },
+    {
+        "status": "story",
+        "img": "https://1.bp.blogspot.com/-HURpmw5mkDE/YGLZaCfW49I/AAAAAAAArDE/bmT1JvFlWCcGEouGm7IkcBGE3tnkJOwZgCNcBGAsYHQ/s0/4dbac6b0fba20da48bc401f589939e68.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Khoa Nguyễn"
+    },
+    {
+        "status": "",
+        "img": "https://1.bp.blogspot.com/-7bTY4xt_8Ig/YGLbTEMWePI/AAAAAAAArFY/WxDViYedANk4nQpFr8YLky5xtjFmeg4GACNcBGAsYHQ/s0/Hinh-Nen-Meo-Ngao-41.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Minh Ánh"
+    },
+    {
+        "status": "",
+        "img": "https://1.bp.blogspot.com/-lXZ7n8DttR8/YGLbTD0XlNI/AAAAAAAArFc/7On_PtigroM352O5e9QRfGhtBCwqzF9ngCNcBGAsYHQ/s0/Hinh-Nen-Meo-Ngao-50.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Ngọc Đan"
+    },
+    {
+        "status": "",
+        "img": "https://1.bp.blogspot.com/-KMb903z4m-8/YGLZafGrmCI/AAAAAAAArDI/aL4zHHgPqz0BGJYSWnZ76PKVKJyX6SiyQCNcBGAsYHQ/s0/4ed420f649fde85e8c6b86a60838fa11.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Thanh Phong"
+    },
+    {
+        "status": "seenstory",
+        "img": "https://1.bp.blogspot.com/-pnSe0fMf3Ig/YGLZauZEXZI/AAAAAAAArDM/_Migogxpb-AANL8CaVqdMbVChjAXwciIACNcBGAsYHQ/s0/5e31120747ba14103fdf420cfa37800b.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Phạm Thị Mỹ Duyên"
+    },
+    {
+        "status": "",
+        "img": "https://1.bp.blogspot.com/-orPSRlRQ-0w/YGLZb4V25dI/AAAAAAAArDY/d3NI5VsZypoEFv7D3hPdQa1t6mdmMqMAwCNcBGAsYHQ/s0/7a762420a305f029ec2593d1f7ee9b84.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Trương Tiến Đạt"
+    },
+    {
+        "status": "story",
+        "img": "https://1.bp.blogspot.com/-AQGEieyPelA/YGLZYXmgm5I/AAAAAAAArCs/PbWWA1iXJv81kEaImML8MpvsioaEvuNgQCNcBGAsYHQ/s0/28a2a1a063787990401e660943419d41.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Đang Kim"
+    },
+    {
+        "status": "seenstory",
+        "img": "https://1.bp.blogspot.com/-sLYkB5P3n1s/YGLZZ0MUJAI/AAAAAAAArDA/khuAH5sXbnQQBuLSpoCVvfoJMx4EBF5YQCNcBGAsYHQ/s0/47a9539dc8e36185312ef99ed8b78c16.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Linh Thoại"
+    },
+    {
+        "status": "",
+        "img": "https://1.bp.blogspot.com/-fZFuHlaPUhs/YGLZa02W4xI/AAAAAAAArDQ/CBAWz3Nr7qU65dmF9oleJoHrpClyTOA-ACNcBGAsYHQ/s0/63af987a2cf528462ae90e36c72f6e96.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Vĩnh Cường GD"
+    },
+    {
+        "status": "",
+        "img": "https://1.bp.blogspot.com/-tSM7VtBqkn8/YGLZbI3JuiI/AAAAAAAArDU/q3epRulHztMSYmaiWSbt28Zkxro4HXuLACNcBGAsYHQ/s0/68ffd5e7460cb0b7e21546b6165650e9.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Hồng Đức"
+    },
+    {
+        "status": "story",
+        "img": "https://1.bp.blogspot.com/-SAVAV-ElsMU/YGLZWo9zjJI/AAAAAAAArCQ/Dy6e6ygr2VImMtStceGOmD8elHHxYiS9QCNcBGAsYHQ/s0/169ba8adf973c6255699631b00ad33bd.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Vũ G.Bảo"
+    },
+    {
+        "status": "",
+        "img": "https://1.bp.blogspot.com/-lCTXDqymES8/YGLZYX010_I/AAAAAAAArCo/rFNuRgFP0pEkAi-KwXagEKmCimgIhYNLQCNcBGAsYHQ/s0/240af3e4a4fac8cedf3e5c4ffe6a91a9.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Minh Phụng"
+    },
+    {
+        "status": "",
+        "img": "https://1.bp.blogspot.com/-Jq0giOTCCgI/YGLZZZX-5BI/AAAAAAAArC4/r864zkl26LsE4FdC0NM5BzhmtHRpTcmgQCNcBGAsYHQ/s0/398f830bf2299068efbae8b42fbf79b6.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Le Ly Huyen"
+    },
+    {
+        "status": "story",
+        "img": "https://1.bp.blogspot.com/--vb3X16S0LU/YGLZb6lfcyI/AAAAAAAArDc/JtOlbuqwpN0jpOv5khMbL0HWfHYOdiHWACNcBGAsYHQ/s0/926ad9b201f55b9a72c1f11ef88532dc.jpeg",
+        "element": "div",
+        "class" : "fa-solid fa-circle green",
+        "active": "",
+        "name": "Trầm Duy An"
+    }
+    
+]
