@@ -123,7 +123,7 @@ window.onload = function () {
         $('body').addClass('scroll-theme');
         $('.comment .id').addClass('comment-theme');
         $('.upload, .add-fr, .acp-fr').addClass('theme-button');
-        $('body').addClass('dark-theme');
+        $('body, .thongtin').addClass('dark-theme');
         $('.react sup, .react div, .top-inf a').addClass('theme-text');
         $('.post #textarea, #write-comment,#search,.preview').addClass('border-radius');
         $('header, .top-inf').addClass('little-dark-theme');
@@ -151,7 +151,7 @@ window.onload = function () {
         $('.react sup, .react div, footer').removeClass('theme-text');
         $('.post #textarea, #write-comment,#search,.preview').removeClass('border-radius');
         $('header, .top-inf, .focus-inf, .focus-left').removeClass('little-dark-theme');
-        $('body').removeClass('dark-theme');
+        $('body, .thongtin').removeClass('dark-theme');
         $('.news p').removeClass('theme-text');
         $('.news h5,.news i, .see-all b, .top-inf a').removeClass('theme-text');
         $('.table,.sub-nof, .menu-nof, .sub-chat,.dropdown-menu').removeClass('little-dark-theme');

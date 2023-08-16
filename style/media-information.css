@@ -173,7 +173,7 @@
     .focus-left {
         border-radius: 15px;
         width: 90% !important;
-        height: 380px;
+        height: 400px !important;
         background-color: white;
         display: flex;
         flex-direction: column;
