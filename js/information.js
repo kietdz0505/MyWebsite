@@ -132,12 +132,16 @@ window.onload = function () {
         $('.news h5,.news i, .see-all b, footer').addClass('theme-text');
         $('.post').addClass('little-dark-theme');
         $('.feeds').addClass('little-dark-theme');
-        $('.contact, .focus-inf').addClass('little-dark-theme');
+        $('.contact, .focus-inf, .focus-left').addClass('little-dark-theme');
         $('.bg').addClass('bg-theme');
+        $('.img-avt img').addClass('bg-theme');
+        $('.str-me').addClass('bg-theme');
         $('.nav-info').addClass('nav-theme');
       } else {
         $('.nav-info').removeClass('nav-theme');
+        $('.str-me').removeClass('bg-theme');
         $('.bg').removeClass('bg-theme');
+        $('.img-avt img').removeClass('bg-theme');
         $('.content, .news, .create, .users-not-fr,.menuflex, .users,.see-all, .comment, .img16-9-content, .img4-3-content, .img-square-content ,.left, .mid, .right, .img-more-content').removeClass('border-theme');
         $('.user, .user-chat, .content-nof, .user-top').removeClass('user-theme');
         $('.comment .id').removeClass('comment-theme');
@@ -146,7 +150,7 @@ window.onload = function () {
         $('.feeds a').removeClass('theme-text');
         $('.react sup, .react div, footer').removeClass('theme-text');
         $('.post #textarea, #write-comment,#search,.preview').removeClass('border-radius');
-        $('header, .top-inf, .focus-inf').removeClass('little-dark-theme');
+        $('header, .top-inf, .focus-inf, .focus-left').removeClass('little-dark-theme');
         $('body').removeClass('dark-theme');
         $('.news p').removeClass('theme-text');
         $('.news h5,.news i, .see-all b, .top-inf a').removeClass('theme-text');
