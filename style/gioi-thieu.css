@@ -125,7 +125,7 @@ p>a {
 #backToTopBtn {
   position: fixed;
   bottom: 20px;
-  left: 20px;
+  right: 20px;
   display: none;
   background-color: #007BFF;
   color: #fff;
@@ -183,7 +183,6 @@ iframe.iframe-vid {
   height: 450px;
 }
 
-
 @media (max-width: 450px) {
   .maps {
     width: 95%;
@@ -206,9 +205,6 @@ iframe.iframe-vid {
     background: linear-gradient(bisque, whitesmoke, bisque);
   }
 
-  .menu {
-    background-color: lightseagreen;
-  }
 
   .gioi-thieu-main .gioi-thieu-chung {
     width: 95%;
@@ -231,7 +227,7 @@ iframe.iframe-vid {
   }
 }
 
-@media only screen and (min-width: 451px) and (max-width: 1000px) {
+@media only screen and (min-width: 451px) and (max-width: 850px) {
 
   .nav {
     padding: 1rem;
@@ -243,10 +239,6 @@ iframe.iframe-vid {
 
   ul.menu.left {
     justify-content: space-between;
-  }
-
-  .menu {
-    background-color: lightseagreen;
   }
 
   .welcome {
