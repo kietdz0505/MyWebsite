@@ -15,8 +15,7 @@ window.onload = function () {
     } else {
       users.push({ username: regUsername, password: regPassword });
       alert("Đăng kí thành công! Vui lòng đăng nhập để tiếp tục");
-    }
-
+    }  
     document.getElementById("register-form").reset();
   });
 
