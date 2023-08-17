@@ -1,3 +1,4 @@
+window.onload = function () {
   let nameElement = document.querySelector('.name');
   let avtElement = document.querySelector('.avt');
   let actElements = document.querySelectorAll('.active');
@@ -236,6 +237,7 @@
       overlay.classList.remove('active');
     }, 800);
   });
+}
 let scrollmid = document.querySelector('.secmid');
 let backToTopBtn = document.getElementById('backToTopBtn');
 window.addEventListener('scroll', function () {
