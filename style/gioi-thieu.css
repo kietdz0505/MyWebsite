@@ -1,5 +1,7 @@
 .welcome {
-  padding: 1rem;
+  padding: 0;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   text-align: center;
   width: 100%;
   background: linear-gradient(bisque, whitesmoke, bisque);
@@ -187,16 +189,25 @@ iframe.iframe-vid {
   .maps {
     width: 95%;
   }
-
-  ul.menu.right {
-    display: none;
-  }
-
   nav {
-    margin: 0;
-    padding: 0;
+    width: 100% !important;
   }
-
+  .left{
+    width: 80% !important;
+  }
+  .left li{
+    width: 15%;
+  }
+  .right{
+    width: 20% !important;
+  }
+  .right {
+    position: absolute !important;
+    top: 110px; 
+    right: 60px;
+    border-radius: 15px;
+    background: linear-gradient(to right bottom, aqua, blue);
+}
   .welcome {
     padding: 0;
     padding-top: 0.5rem;
@@ -229,16 +240,12 @@ iframe.iframe-vid {
 
 @media only screen and (min-width: 451px) and (max-width: 850px) {
 
-  .nav {
-    padding: 1rem;
-  }
-
-  ul.menu.right {
-    display: none;
-  }
-
   ul.menu.left {
     justify-content: space-between;
+  }
+
+  .right {
+    background: linear-gradient(to right, #1d559f, #4478b2);
   }
 
   .welcome {
