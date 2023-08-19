@@ -97,8 +97,8 @@ div.SinhVien img {
       }
       .right {
         position: absolute !important;
-        top: 120px; 
-        right: 60px;
+        top: 100px; 
+        right: 40px;
         border-radius: 15px;
         background: linear-gradient(to right bottom, aqua, blue);
     }

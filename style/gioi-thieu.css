@@ -189,25 +189,6 @@ iframe.iframe-vid {
   .maps {
     width: 95%;
   }
-  nav {
-    width: 100% !important;
-  }
-  .left{
-    width: 80% !important;
-  }
-  .left li{
-    width: 15%;
-  }
-  .right{
-    width: 20% !important;
-  }
-  .right {
-    position: absolute !important;
-    top: 110px; 
-    right: 60px;
-    border-radius: 15px;
-    background: linear-gradient(to right bottom, aqua, blue);
-}
   .welcome {
     padding: 0;
     padding-top: 0.5rem;
@@ -225,6 +206,64 @@ iframe.iframe-vid {
     width: 300px !important;
     height: 150px !important;
   }
+  .head {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.logo {
+    padding: 1rem;
+    width: 90%;
+}
+
+.search {
+    padding: 0 1rem 1rem 1rem;
+    width: 60%;
+}
+
+.ul {
+    width: 100%;
+}
+
+.right a {
+    font-size: 11px;
+    text-align: center;
+    width: 80px;
+    height: 1rem;
+    border-radius: 15px;
+    background: linear-gradient(to right bottom, aqua, blue) !important;
+}
+
+.fixed-mobile {
+    z-index: 100;
+    position: fixed;
+    right: 0px;
+    left: 0;
+    top: 0;
+}
+nav, footer{
+    font-size: 11px !important;
+}
+nav {
+    width: 100% !important;
+  }
+  .left{
+    width: 80% !important;
+  }
+  .left li{
+    width: 15%;
+  }
+  .right{
+    width: 20% !important;
+  }
+  .right {
+    position: absolute !important;
+    top: 140px !important; 
+    right: 40px !important;
+    border-radius: 15px;
+    background: linear-gradient(to right bottom, aqua, blue);
+}
 }
 
 @media (max-width: 280px) {

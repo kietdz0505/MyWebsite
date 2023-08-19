@@ -265,25 +265,6 @@ function viewprofile() {
     menu.style.display = 'block';
   }
 }
-fetch('../json/user-contact.json')
-  .then(response => response.json())
-  .then(data => {
-    const userList = document.querySelector('.users');
-    data.forEach(user => {
-      const userCard = document.createElement('div');
-      userCard.className = 'user';
-      userCard.innerHTML = `
-    <div class="items-img ${user.status}"><img
-        src="${user.img}"
-        alt="user">
-      <${user.element} class="${user.class}">${user.active}</${user.element}>
-    </div>
-    <div class="items-name"><b>${user.name}</b></div>
-    `;
-      userList.appendChild(userCard);
-    });
-  })
-  .catch(error => console.error('Error fetching user data:', error));
 fetch('../json/nofication.json')
   .then(response => response.json())
   .then(data => {
