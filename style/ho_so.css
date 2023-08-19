@@ -27,8 +27,8 @@ li:hover>ul.submenu-hoso li {
 .submenu-hoso li>a {
     color: aliceblue;
     text-decoration: none;
-    margin: 0..5rem;
-    padding: 0.2rem;
+    display: block;
+    padding: 1rem;
 }
 
 .submenu-hoso li>a:hover {
@@ -39,7 +39,7 @@ li:hover>ul.submenu-hoso li {
 .submenu-hoso li {
     color: aliceblue;
     text-decoration: none;
-    margin: .5rem;
+    width: 100%;
 }
 
 .DanhSachSinhVien {
@@ -89,8 +89,8 @@ div.SinhVien img {
       .left{
         width: 80% !important;
       }
-      .left li{
-        width: 15%;
+      .left>li{
+        width: 15% !important;
       }
       .right{
         width: 20% !important;
